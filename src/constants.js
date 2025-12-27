@@ -33,7 +33,7 @@ import himLogo from "./assets/education_logo/him.jpg";
 // Project Section Logo's
 import sensaiLogo from './assets/work_logo/sensai.png';
 import quickAILogo from './assets/work_logo/quickAI.png';
-import smartCertifyLogo from './assets/work_logo/smartcertify.png';
+import smartCertifyLogo from './assets/work_logo/smartCertify.png';
 import nestorriaLogo from './assets/work_logo/nestorria.png';
 
 export const SkillsInfo = [
