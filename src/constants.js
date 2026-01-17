@@ -164,7 +164,7 @@ export const SkillsInfo = [
         "An online certification and assessment platform where users can attempt tests, track performance, and earn certificates. Built using Angular and ASP.NET Core with secure authentication and cloud deployment on Azure.",
       image: smartCertifyLogo,
       tags: ["Angular 19", "ASP.NET Core 9", "SQL Server", "Azure", "Docker"],
-      github: "",
+      github:"https://github.com/kumar26apurv/Smart_Learn---Online-Course-and-Certification.git",
       webapp: "https://smartcertify-web.azurewebsites.net/home",
     },
     {
